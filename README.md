@@ -34,7 +34,7 @@
 
     - 이에 ‘이것이 코딩 테스트를 위한 알고리즘이다.’ 책을 통해 코테에 자주 나오는 알고리즘 대표유형들을 우선적으로 공부한 다음 대표 유형들과 관련된 문제들을 다양한 플랫폼에서 경험해보는 식으로 공부 방향을 변경하였습니다.
 
-    - 이제 [algorithm repo에서](https://github.com/JitHoon/algorithm)에서 앞으로의 모든 알고리즘 공부를 기록합니다. 자세한 정리 방법은 README.md 를 참고. (23.05 ~ )
+    - 이제 [algorithm repo](https://github.com/JitHoon/algorithm)에서 앞으로의 모든 알고리즘 공부를 기록합니다. 자세한 정리 방법은 README.md 를 참고. (23.05 ~ )
 
 ### 참고자료
 

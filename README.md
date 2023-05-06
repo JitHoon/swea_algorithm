@@ -1,18 +1,18 @@
-#### 페이지 소개
+## 페이지 소개
 
 현재 페이지는 **본격적인 Python 공부**를 위해 **SWEA 플랫폼**에서 제공해주는 난이도 별 **로드맵**을 따라 **3개월간 공부한 기록**입니다.
 
-#### 당시 목표 (23년 1월)
+## 당시 목표 (23년 1월)
 
 SSAFY 전공자 코테 대비로 D1 ~ D3 정도는 모두 풀어본다는 점을 고려하여 비전공자 본인도 입과 전 수준을 맞추기 위해 시작하였습니다.
 
 **저는 D1 ~ D3 난이도를 넘어선 D4를 6월 전까지 공부한다는 목표를 세웠고 이를 실천하였습니다.**
 
-#### 공부 로드맵
+## 공부 로드맵
 
 Beginner1 (D1)→ Beginner2 (D1~D2)→ Intermediate (D2~D3) → Advances (D3~D4)
 
-#### 결과물
+## 결과물
 
 1.  **_깃허브 commit & push_**
 
@@ -36,13 +36,13 @@ Beginner1 (D1)→ Beginner2 (D1~D2)→ Intermediate (D2~D3) → Advances (D3~D4)
 
 - 이제 [algorithm repo에서](https://github.com/JitHoon/algorithm)에서 앞으로의 모든 알고리즘 공부를 기록합니다. 자세한 정리 방법은 README.md 를 참고. (23.05 ~ )
 
-##### 참고자료
+### 참고자료
 
 Python standard Library 공식 문서
 
 Python package Index
 
-##### 추가 공부 사이트
+### 추가 공부 사이트
 
 [파이썬 300제](https://wikidocs.net/book/922)
 
